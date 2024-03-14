@@ -1,6 +1,6 @@
 **Pi Day**
 
-Boring (and probably unoriginal) Pi Day thing I did for 2024-3-14
+Boring (and probably unoriginal) Pi Day thing I did for 2024-03-14
 
 ```
 $ ./piday
@@ -18,3 +18,5 @@ the graph of `y` against `e^(-x^2 / 2)` has gradient `1 / 2sqrt(PI)`.
 
 4. Fitting our approximation of the normal distribution allows us to calculate the approximate
 value of `PI` from the gradient of the best fit line.
+
+\>3,000,000 samples are needed to get a consistent 2-decimal-place accuracy of `PI`
